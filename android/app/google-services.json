@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "215268959923",
+    "project_id": "astro-ai-433ed",
+    "storage_bucket": "astro-ai-433ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215268959923:android:f22764144827528084b2c6",
+        "android_client_info": {
+          "package_name": "com.example.astro_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215268959923-9l2b67hfi4qrqa06hcmbrn0dgbsj1lrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ij7LyD2PpVdoc20YOgNvLQsbu5IGmOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215268959923-9l2b67hfi4qrqa06hcmbrn0dgbsj1lrp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "215268959923-mn2v4bjb631ui0tpm24hm7o4hkkil33d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.astroAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
