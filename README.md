@@ -16,7 +16,10 @@ A modern Flutter application that provides personalized personality insights thr
 <p align="center">
   <img src="screenshots/splash_screen.png" width="200">
   <img src="screenshots/login_page.png" width="200">
+  <img src="screenshots/signup_page.png" width="200">
+  <img src="screenshots/home_screen.png" width="200">
   <img src="screenshots/details_section.png" width="200">
+  <img src="screenshots/insight.png" width="200">
 </p>
 
 ## 🛠️ Tech Stack
