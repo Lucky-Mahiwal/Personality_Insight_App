@@ -13,11 +13,11 @@ A modern Flutter application that provides personalized personality insights thr
 
 ## 📸 Screenshots
 
-> Add your application screenshots here.
-
-| Home | Login | Insights |
-|------|-------|----------|
-| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) | ![Insights](screenshots/insights.png) |
+<p align="center">
+  <img src="screenshots/splash_screen.png" width="200">
+  <img src="screenshots/login_page.png" width="200">
+  <img src="screenshots/details_section.png" width="200">
+</p>
 
 ## 🛠️ Tech Stack
 
